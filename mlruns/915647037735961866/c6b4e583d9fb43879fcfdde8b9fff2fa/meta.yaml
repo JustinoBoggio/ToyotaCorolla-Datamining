@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Justino/OneDrive/UTN-FRT/5%C2%B0%20A%C3%B1o/Datamining/ToyotaCorolla-Datamining/mlruns/915647037735961866/c6b4e583d9fb43879fcfdde8b9fff2fa/artifacts
+deleted_time: 1696386980930
+end_time: 1696207822290
+entry_point_name: ''
+experiment_id: '915647037735961866'
+lifecycle_stage: deleted
+run_id: c6b4e583d9fb43879fcfdde8b9fff2fa
+run_name: efficient-fish-380
+run_uuid: c6b4e583d9fb43879fcfdde8b9fff2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696207816846
+status: 3
+tags: []
+user_id: Justino
